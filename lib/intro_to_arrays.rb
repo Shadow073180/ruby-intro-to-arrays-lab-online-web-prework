@@ -1,0 +1,2 @@
+def instatiate_new_array
+end
